@@ -1,0 +1,13 @@
+<paste log output from Kubernetes-mediated prediction, here> 
+
+# pod "api" was used for the prediction
+
+NAME                              READY   STATUS    RESTARTS   AGE
+api                               1/1     Running   1          2d2h
+balanced-5744b548b4-8lgb9         1/1     Running   2          5d1h
+deployment                        1/1     Running   1          2d3h
+flaskskearlndemo                  1/1     Running   2          5d1h
+hello-minikube-6ddfcc9757-gm2ch   1/1     Running   2          5d1h
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
